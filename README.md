@@ -1,4 +1,4 @@
 Application for keeping track of invoices and generating new ones <br>
-ReactJS frontend
-ExpressJS backend
+ReactJS frontend <br>
+ExpressJS backend <br>
 PostgreSQL DB
